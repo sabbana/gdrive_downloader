@@ -1,6 +1,6 @@
 __author__ = 'sabbana'
 
-# This application was purposed to downloaded file from google Drive.
+# This application is intended to download files from Google Drive.
 # 
 # @used
 #     python gdrive_downloader.py [ gid ] [ destination ]
